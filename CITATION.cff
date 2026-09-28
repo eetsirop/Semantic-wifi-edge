@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite it as below."
+type: software
+authors:
+  - family-names: "Nimmagadda"
+    given-names: "Sai Harsha"
+  - family-names: "Chakraborty"
+    given-names: "Debaleena"
+  - family-names: "Sharma"
+    given-names: "Pragya"
+  - family-names: "Chakrabarty"
+    given-names: "Krishnendu"
+  - family-names: "Tsiropoulou"
+    given-names: "Eirini Eleni"
+title: "Semantic-Wifi-Edge"
+abstract: "Semantic-Aware WiFi Data Collection for Smart Manufacturing with AI-Driven Edge Intelligence"
+version: 1.0.0
+date-released: 2026-09-27
