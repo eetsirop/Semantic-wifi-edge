@@ -8,7 +8,7 @@ Edge Intelligence**
 [![Firmware](https://img.shields.io/badge/Firmware-GN%20and%20BN%20Builds-orange)](#software-and-hardware-versions)
 [![FOTA](https://img.shields.io/badge/FOTA-MCUboot%20Ground%20Nodes-purple)](#ground-node-fota)
 
-PROTON is a distributed wireless testbed for studying adaptive communication in
+PROTON Testbed is a distributed wireless testbed for studying adaptive communication in
 energy-constrained IoT networks. The system combines G5 Ground Nodes (GNs),
 cluster-level Base Nodes (BNs), a Central Server, and a desktop application for
 experiment control and data collection.
