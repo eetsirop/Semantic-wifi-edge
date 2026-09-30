@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software in your work, please cite it as below."
+message: "If you use this software, data set in your work, please cite it as below."
 type: software
 authors:
   - family-names: "Nimmagadda"
