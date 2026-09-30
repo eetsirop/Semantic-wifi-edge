@@ -445,7 +445,6 @@ GitHub can generate the citation automatically from
 ```bibtex
 @software{semantic_wifi_edge_2026,
   author    = {Nimmagadda, Sai Harsha and Chakraborty, Debaleena and
-               Sharma, Pragya and Chakrabarty, Krishnendu and
                Tsiropoulou, Eirini Eleni},
   title     = {Semantic-Wifi-Edge},
   year      = {2026},
